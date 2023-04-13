@@ -65,9 +65,9 @@ f, a táblázatunk háttérszíne legyen: rgb(112,128,144) kódolású!
  "A Panzerkampfwagen VI Ausf. B német nehézharckocsi, amelyet a második világháborúban a PzKpfw VI Tiger I és a PzKpfw V Panther tapasztalatai alapján fejlesztettek ki. Ismert még Tiger (Tigris) II, vagy Königstiger („Királytigris”) néven is. Az utóbbit a szövetséges (amerikai és brit) katonák által használt Royal Tiger vagy King Tiger után. A Königstiger a Kingtiger fordítása, de németül a bengáli tigris neve, és a német hadsereg hivatalosan sohasem használta. Német katonai jelölése Sd.Kfz. 182."
  
  
+  MINTÁK:
   
-  
- 
+ <img src=pelda1.png>
  
  
  
