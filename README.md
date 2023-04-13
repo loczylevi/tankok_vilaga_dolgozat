@@ -67,7 +67,7 @@ f, a táblázatunk háttérszíne legyen: rgb(112,128,144) kódolású!
  
   MINTÁK:
   
- <img src=pelda1.png>
+ <img src=minta_pelda_kepek/pelda1.png>
  
  
  
