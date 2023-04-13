@@ -75,8 +75,12 @@ f, a táblázatunk háttérszíne legyen: rgb(112,128,144) kódolású!
    <img src=minta_pelda_kepek/pelda6.png>
    <img src=minta_pelda_kepek/pelda7.png>
     <img src=minta_pelda_kepek/pelda8.png>
-     <img src=minta_pelda_kepek/pelda7.png>
-     <img src=minta_pelda_kepek/pelda7.png>
+    
+    Telefonos kijelző minták:
+    
+    
+     <img src=minta_pelda_kepek/telefonos_kijelzo_pelda1.png>
+     <img src=minta_pelda_kepek/telefonos_kijelzo_pelda2.png>
  
  
  
