@@ -1,0 +1,115 @@
+html {
+      scroll-behavior: smooth;
+    }
+
+th,td{
+      border: 1px solid black;
+}
+    
+ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #333;
+      position: fixed;
+      top: 0;
+      width: 100%;
+}
+
+.kozep {
+      text-align: center;
+}
+    
+li {
+      float: left;
+}
+    
+li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+}
+    
+li a:hover:not(.active) {
+      background-color: #111;
+}
+    
+.active {
+      background-color: #04AA6D;
+}
+    
+    
+    
+@media screen and (max-width: 1000px) {
+    ul{
+        display: none;
+    }
+    .adatlap{
+      display: none;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+      .telefonos{
+            display: none;
+      }
+  }
+
+
+.kep_cicoma{
+      width: 30%;
+      height: auto;
+      float: right;
+      border-radius: 10px;
+
+}
+
+.kep_cicoma2{
+      width: 30%;
+      height: auto;
+      float: left;
+      border-radius: 10px;
+
+}
+
+@media screen and (max-width: 1000px) {
+      .kep_cicoma{
+            width: 60%;
+      }
+      .kep_cicoma2{
+            width: 60%;
+      }
+
+
+  }
+
+
+.feher{
+      color: white;
+      font-size: 20px;
+      font-weight: normal;
+      text-align: center;
+   }
+
+.mosd_feherre{
+      color: aliceblue;
+}
+
+a{
+      color: aliceblue;
+}
+.mini_tanks {
+      width: 200px;
+      height: auto;
+  }
+
+.output{
+      color: forestgreen;
+      background-color: #333;
+      border: 3px solid black;
+      width: 100%;
+      border-radius: 5px;
+}
