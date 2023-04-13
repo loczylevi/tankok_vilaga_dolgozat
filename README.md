@@ -68,7 +68,15 @@ f, a táblázatunk háttérszíne legyen: rgb(112,128,144) kódolású!
   MINTÁK:
   
  <img src=minta_pelda_kepek/pelda1.png>
- 
+   <img src=minta_pelda_kepek/pelda2.png>
+   <img src=minta_pelda_kepek/pelda3.png>
+   <img src=minta_pelda_kepek/pelda4.png>
+   <img src=minta_pelda_kepek/pelda5.png>
+   <img src=minta_pelda_kepek/pelda6.png>
+   <img src=minta_pelda_kepek/pelda7.png>
+    <img src=minta_pelda_kepek/pelda8.png>
+     <img src=minta_pelda_kepek/pelda7.png>
+     <img src=minta_pelda_kepek/pelda7.png>
  
  
  
