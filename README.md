@@ -1,3 +1,5 @@
+# A felat leírását a tankok_vilaga_dolgozat_A.pdf-ben találja!
+
 # tankok_vilaga_dolgozat
 
 
