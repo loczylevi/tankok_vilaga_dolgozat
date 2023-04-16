@@ -1,4 +1,5 @@
-# A felat leírását a tankok_vilaga_dolgozat_A.pdf-ben találja!
+# A feladat leírását a tankok_vilaga_dolgozat_A.pdf-ben találja!!!
+___________________________________________________________________
 
 # tankok_vilaga_dolgozat
 
