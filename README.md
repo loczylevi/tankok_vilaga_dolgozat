@@ -72,16 +72,16 @@ Jó munkát kívánok!
 KÉP MINTÁK:
  
   
- <img src=minta_pelda_kepek/pelda1.png>
-   <img src=minta_pelda_kepek/pelda2.png>
-   <img src=minta_pelda_kepek/pelda3.png>
-   <img src=minta_pelda_kepek/pelda4.png>
-   <img src=minta_pelda_kepek/pelda5.png>
-   <img src=minta_pelda_kepek/pelda6.png>
-   <img src=minta_pelda_kepek/pelda7.png>
-    <img src=minta_pelda_kepek/pelda8.png>
-    <img src=minta_pelda_kepek/telefonos_kijelzo_pelda1.png>
-    <img src=minta_pelda_kepek/telefonos_kijelzo_pelda2.png>
+ <img src=kep_mintak/minta1.png>
+   <img src=kep_mintak/minta2.png>
+   <img src=kep_mintak/minta3.png>
+   <img src=kep_mintak/minta4.png>
+   <img src=kep_mintak/minta5.png>
+   <img src=kep_mintak/minta6.png>
+   <img src=kep_mintak/minta7.png>
+    <img src=kep_mintak/minta8.png>
+    <img src=kep_mintak/telefonos_kinezet1.png>
+    <img src=kep_mintak/telefonos_kinezet2.png>
  
 
  ༼ つ ◕_◕ ༽つ
