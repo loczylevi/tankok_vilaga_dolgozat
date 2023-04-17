@@ -60,6 +60,8 @@ li a:hover:not(.active) {
 
 
 .kep_cicoma{
+      margin-bottom: 20px;
+      margin-left: 20px;
       width: 30%;
       height: auto;
       float: right;
@@ -68,6 +70,8 @@ li a:hover:not(.active) {
 }
 
 .kep_cicoma2{
+      margin-bottom: 20px;
+      margin-right: 20px;
       width: 30%;
       height: auto;
       float: left;
